@@ -3,6 +3,56 @@
  "cleanUrls": false,
  "redirects": [
   {
+   "source": "/give-up-let-go-sink-in-be-free",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/give-up-let-go-sink-in-be-free/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/the-egos-dilemma",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/the-egos-dilemma/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/the-issue-with-learning-vs-knowing",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/the-issue-with-learning-vs-knowing/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/why-negotiating-doesnt-work-ultimately",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/why-negotiating-doesnt-work-ultimately/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/blog",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/blog/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
    "source": "/thecaptain",
    "destination": "/#books",
    "permanent": true
@@ -40,16 +90,6 @@
   {
    "source": "/contact/",
    "destination": "/#contact",
-   "permanent": true
-  },
-  {
-   "source": "/blog",
-   "destination": "/#writing",
-   "permanent": true
-  },
-  {
-   "source": "/blog/",
-   "destination": "/#writing",
    "permanent": true
   },
   {
