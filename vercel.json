@@ -28,982 +28,982 @@
    "permanent": true
   },
   {
-   "source": "/230",
+   "source": "/230/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/3-magic-words-to-get-what-you-want-how-can-i",
+   "source": "/3-magic-words-to-get-what-you-want-how-can-i/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/3-steps-to-keep-momentum-and-win-in-life",
+   "source": "/3-steps-to-keep-momentum-and-win-in-life/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/3-steps-to-lower-stress-get-stuff-done",
+   "source": "/3-steps-to-lower-stress-get-stuff-done/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/3-steps-to-make-the-good-life-easy",
+   "source": "/3-steps-to-make-the-good-life-easy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/a-cure-for-dis-ease",
+   "source": "/a-cure-for-dis-ease/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/a-great-way-to-change-the-world",
+   "source": "/a-great-way-to-change-the-world/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/a-life-experiment",
+   "source": "/a-life-experiment/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/abandon-desire",
+   "source": "/abandon-desire/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/abandon-gain-to-gain-it-all",
+   "source": "/abandon-gain-to-gain-it-all/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/accepting-the-life-we-tolerate",
+   "source": "/accepting-the-life-we-tolerate/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/an-%e2%80%9ceasy%e2%80%9d-way-to-create-unprecedented-life-in-90-days",
+   "source": "/an-%e2%80%9ceasy%e2%80%9d-way-to-create-unprecedented-life-in-90-days/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/awareness-and-untold-adoption",
+   "source": "/awareness-and-untold-adoption/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/awareness-is-transformational",
+   "source": "/awareness-is-transformational/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/be-the-mystic",
+   "source": "/be-the-mystic/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/being-powerful-requires-you-let-go-of-weakness",
+   "source": "/being-powerful-requires-you-let-go-of-weakness/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/blessing-bag",
+   "source": "/blessing-bag/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/book-launch",
+   "source": "/book-launch/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/bound-to-succeed",
+   "source": "/bound-to-succeed/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/building-or-crushing-the-life-of-your-dreams-a-few-words-at-a-time",
+   "source": "/building-or-crushing-the-life-of-your-dreams-a-few-words-at-a-time/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/business-coaching-training",
+   "source": "/business-coaching-training/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/business-growth-mastery",
+   "source": "/business-growth-mastery/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/business-growth-mastery-group-coaching",
+   "source": "/business-growth-mastery-group-coaching/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/can-your-body-live-forever-do-you-want-it-to",
+   "source": "/can-your-body-live-forever-do-you-want-it-to/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/cart",
+   "source": "/cart/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/challenge-reality",
+   "source": "/challenge-reality/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/checkout",
+   "source": "/checkout/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/christine-miskinis-a-womans-voice-unleashed-ep-15-awake-with-jevon",
+   "source": "/christine-miskinis-a-womans-voice-unleashed-ep-15-awake-with-jevon/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/contentment-vs-desire",
+   "source": "/contentment-vs-desire/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/covid",
+   "source": "/covid/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/creating-new-life-and-new-results-from-just-telling-a-different-story",
+   "source": "/creating-new-life-and-new-results-from-just-telling-a-different-story/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/creator-poem",
+   "source": "/creator-poem/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/dark-no-path",
+   "source": "/dark-no-path/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/detachment-vs-non-attachment",
+   "source": "/detachment-vs-non-attachment/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/do-or-do-not-there-is-no-try-or-is-there",
+   "source": "/do-or-do-not-there-is-no-try-or-is-there/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/do-your-everyday",
+   "source": "/do-your-everyday/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/doing-what-matters-most-first-simple-but-not-easy",
+   "source": "/doing-what-matters-most-first-simple-but-not-easy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/doing-your-goal-no-matter-what",
+   "source": "/doing-your-goal-no-matter-what/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/dont-be-too-hard-on-yourself",
+   "source": "/dont-be-too-hard-on-yourself/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/dont-worry-be-happy",
+   "source": "/dont-worry-be-happy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/drift-wait-and-obey",
+   "source": "/drift-wait-and-obey/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/emotions-great-indicators-horrible-masters",
+   "source": "/emotions-great-indicators-horrible-masters/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/employee-engagement-does-effect-the-bottom-line",
+   "source": "/employee-engagement-does-effect-the-bottom-line/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/ep16-awake-patricia-wholistic-wellness",
+   "source": "/ep16-awake-patricia-wholistic-wellness/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/ep17-quirkycosmo-kerri-ann-sanders-genetic-alchemist",
+   "source": "/ep17-quirkycosmo-kerri-ann-sanders-genetic-alchemist/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/ep18-soul-contract-reading-practitioner-tina-howard",
+   "source": "/ep18-soul-contract-reading-practitioner-tina-howard/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/every-thought-is-making-something",
+   "source": "/every-thought-is-making-something/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/experiencing-being-alive",
+   "source": "/experiencing-being-alive/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/failure-and-journey-look-a-lot-alike",
+   "source": "/failure-and-journey-look-a-lot-alike/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/fear-is-from-the-way-you-think-about-things",
+   "source": "/fear-is-from-the-way-you-think-about-things/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/fierce-conversations-interview",
+   "source": "/fierce-conversations-interview/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/flipyoursuccessswitch",
+   "source": "/flipyoursuccessswitch/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/food-is-medicine",
+   "source": "/food-is-medicine/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/forgiveness-is-releasing-the-story-of-pain-that-never-existed",
+   "source": "/forgiveness-is-releasing-the-story-of-pain-that-never-existed/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/freedom",
+   "source": "/freedom/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/getting-past-what-isnt-supposed-to-be-part-2",
+   "source": "/getting-past-what-isnt-supposed-to-be-part-2/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/getting-what-you-want-with-what-you-have-event",
+   "source": "/getting-what-you-want-with-what-you-have-event/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/give-advise-without-offense-double-permission-approach",
+   "source": "/give-advise-without-offense-double-permission-approach/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/give-what-you-lack",
+   "source": "/give-what-you-lack/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/giving-the-secret-to-getting",
+   "source": "/giving-the-secret-to-getting/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/giving-up-how-life-should-be",
+   "source": "/giving-up-how-life-should-be/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/glamour-vs-contentment",
+   "source": "/glamour-vs-contentment/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/guilt-vs-regret",
+   "source": "/guilt-vs-regret/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/heart-head-hands-living",
+   "source": "/heart-head-hands-living/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/home-base-to-earth-rover-come-in",
+   "source": "/home-base-to-earth-rover-come-in/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-do-you-rid-darkness",
+   "source": "/how-do-you-rid-darkness/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-everything-awaits-in-nothing",
+   "source": "/how-everything-awaits-in-nothing/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-faking-confidence-works",
+   "source": "/how-faking-confidence-works/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-add-2-hours-of-productive-time-per-day-part-1",
+   "source": "/how-to-add-2-hours-of-productive-time-per-day-part-1/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-add-2-hours-of-productive-time-to-your-day-part-2",
+   "source": "/how-to-add-2-hours-of-productive-time-to-your-day-part-2/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-choose-an-exciting-new-year",
+   "source": "/how-to-choose-an-exciting-new-year/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-find-solution-and-dissolve-any-resistance",
+   "source": "/how-to-find-solution-and-dissolve-any-resistance/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-get-over-the-coronavirus",
+   "source": "/how-to-get-over-the-coronavirus/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-re-write-the-story-of-your-life",
+   "source": "/how-to-re-write-the-story-of-your-life/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/how-to-reinvent-yourself-and-flip-your-success-switch",
+   "source": "/how-to-reinvent-yourself-and-flip-your-success-switch/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/i-need-some-readers",
+   "source": "/i-need-some-readers/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/im-just-like-you",
+   "source": "/im-just-like-you/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/interview-w-joe-and-denise-on-architecture-of-love",
+   "source": "/interview-w-joe-and-denise-on-architecture-of-love/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/its-the-buffets-fault-i-ate-too-much",
+   "source": "/its-the-buffets-fault-i-ate-too-much/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/learning-productivity-through-a-mayonnaise-jar-and-2-beers",
+   "source": "/learning-productivity-through-a-mayonnaise-jar-and-2-beers/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/let-the-traffic-in-and-evolve",
+   "source": "/let-the-traffic-in-and-evolve/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/letting-go-to-be-free",
+   "source": "/letting-go-to-be-free/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/letting-go-to-receive",
+   "source": "/letting-go-to-receive/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/life-experiment-book-is-out",
+   "source": "/life-experiment-book-is-out/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/life-experiment-paperback",
+   "source": "/life-experiment-paperback/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/life-is-as-it-should-be",
+   "source": "/life-is-as-it-should-be/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/life-is-as-it-should-be-part-2",
+   "source": "/life-is-as-it-should-be-part-2/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/life-is-like-traveling-its-a-much-more-pleasant-trip-without-a-lot-of-baggage",
+   "source": "/life-is-like-traveling-its-a-much-more-pleasant-trip-without-a-lot-of-baggage/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/lifes-chinese-finger-trap",
+   "source": "/lifes-chinese-finger-trap/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/love-allows-our-capacity-to-hate",
+   "source": "/love-allows-our-capacity-to-hate/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/love-and-fear-from-the-same-stuff",
+   "source": "/love-and-fear-from-the-same-stuff/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/love-like-its-your-birthday",
+   "source": "/love-like-its-your-birthday/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/love-workshop-feb-15",
+   "source": "/love-workshop-feb-15/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/loving-service-freedom-or-bartering-via-service-bondage",
+   "source": "/loving-service-freedom-or-bartering-via-service-bondage/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/loving-vs-trading",
+   "source": "/loving-vs-trading/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/loving-with-bad-bo",
+   "source": "/loving-with-bad-bo/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/making-of-a-leader-promo-video",
+   "source": "/making-of-a-leader-promo-video/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/misery-mastery-1-degree-apart",
+   "source": "/misery-mastery-1-degree-apart/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/more-money-training-promo-video",
+   "source": "/more-money-training-promo-video/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/mother-teresa-asked-her-thoughts-on-gay-people",
+   "source": "/mother-teresa-asked-her-thoughts-on-gay-people/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/motivation-to-inspiration-by-getting-beat-by-a-girl",
+   "source": "/motivation-to-inspiration-by-getting-beat-by-a-girl/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/my-account",
+   "source": "/my-account/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/needing-the-fruit-of-your-labor-is-the-cause-of-suffering",
+   "source": "/needing-the-fruit-of-your-labor-is-the-cause-of-suffering/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/new-home-sales-data-to-show-its-a-great-time-to-buy-and-sell-fhfa-price-index",
+   "source": "/new-home-sales-data-to-show-its-a-great-time-to-buy-and-sell-fhfa-price-index/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/new-results",
+   "source": "/new-results/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/new-story-new-life",
+   "source": "/new-story-new-life/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/nonlinear-accomplishments",
+   "source": "/nonlinear-accomplishments/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/objections-don%e2%80%99t-have-to-be-game-stoppers",
+   "source": "/objections-don%e2%80%99t-have-to-be-game-stoppers/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/one-step-past-where-you-stop-is-your-success",
+   "source": "/one-step-past-where-you-stop-is-your-success/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/our-separation-from-each-other-is-an-optical-illusion-of-consciousness-einstein",
+   "source": "/our-separation-from-each-other-is-an-optical-illusion-of-consciousness-einstein/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/our-story-of-life-creates-our-reality",
+   "source": "/our-story-of-life-creates-our-reality/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/patience",
+   "source": "/patience/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/peace-vs-happy",
+   "source": "/peace-vs-happy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/perspective-not-reality-creates-experience",
+   "source": "/perspective-not-reality-creates-experience/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/piggy-back-rides-are-one-at-a-time",
+   "source": "/piggy-back-rides-are-one-at-a-time/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/progressive-fulfillment",
+   "source": "/progressive-fulfillment/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/questions-over-advice-developing-the-leader",
+   "source": "/questions-over-advice-developing-the-leader/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/quick-peak-at-my-getting-what-you-want-with-what-you-have-workshop",
+   "source": "/quick-peak-at-my-getting-what-you-want-with-what-you-have-workshop/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/reasons-or-results-you-choose",
+   "source": "/reasons-or-results-you-choose/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/receiving-to-give",
+   "source": "/receiving-to-give/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/remembering-stephen-covey",
+   "source": "/remembering-stephen-covey/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/resources",
+   "source": "/resources/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/reverse-engineering-happinesssuccess",
+   "source": "/reverse-engineering-happinesssuccess/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/ridding-sticky-painful-thoughts-memories",
+   "source": "/ridding-sticky-painful-thoughts-memories/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/schizophrenic-contemplative",
+   "source": "/schizophrenic-contemplative/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/secret-to-get-happy-cereal",
+   "source": "/secret-to-get-happy-cereal/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/servant-leaders-its-time",
+   "source": "/servant-leaders-its-time/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/services",
+   "source": "/services/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/shop",
+   "source": "/shop/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/shop-copy",
+   "source": "/shop-copy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/sign-up",
+   "source": "/sign-up/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/speaking",
+   "source": "/speaking/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/stop-thinking-and-be-happy",
+   "source": "/stop-thinking-and-be-happy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/store",
+   "source": "/store/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/subscribe",
+   "source": "/subscribe/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/suffering-is-a-call-to-go-deeper",
+   "source": "/suffering-is-a-call-to-go-deeper/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/taking-the-stress-out-of-finances",
+   "source": "/taking-the-stress-out-of-finances/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/tales-of-sales",
+   "source": "/tales-of-sales/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/tear-life-down-to-receive-it",
+   "source": "/tear-life-down-to-receive-it/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/testimonials",
+   "source": "/testimonials/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/thank-you",
+   "source": "/thank-you/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-10-minute-meeting-to-get-things-done",
+   "source": "/the-10-minute-meeting-to-get-things-done/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-10-second-happysecret",
+   "source": "/the-10-second-happysecret/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-beloved-is-mine",
+   "source": "/the-beloved-is-mine/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-body-is-made-to-strive",
+   "source": "/the-body-is-made-to-strive/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-captain-audio-book-by-jevon-perra",
+   "source": "/the-captain-audio-book-by-jevon-perra/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-captain-is-in-audible-com",
+   "source": "/the-captain-is-in-audible-com/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-captain-paperback",
+   "source": "/the-captain-paperback/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-captain-synopsis",
+   "source": "/the-captain-synopsis/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-dangers-of-me-my-and-mine",
+   "source": "/the-dangers-of-me-my-and-mine/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-difference-between-being-royalty-or-the-beggar-is-the-story-told",
+   "source": "/the-difference-between-being-royalty-or-the-beggar-is-the-story-told/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-divine-human",
+   "source": "/the-divine-human/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-do-i-deserve-to-be-happy-trap",
+   "source": "/the-do-i-deserve-to-be-happy-trap/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-greatest-hindrance-in-creating-the-world-you-prefer-is-trying-to-change-the-world-you-have",
+   "source": "/the-greatest-hindrance-in-creating-the-world-you-prefer-is-trying-to-change-the-world-you-have/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-humans-purpose",
+   "source": "/the-humans-purpose/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-most-costly-conversation-is-the-one-that-is-left-unsaid",
+   "source": "/the-most-costly-conversation-is-the-one-that-is-left-unsaid/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-power-of-the-pause",
+   "source": "/the-power-of-the-pause/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-right-choice-in-fear-is-the-wrong-choice",
+   "source": "/the-right-choice-in-fear-is-the-wrong-choice/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-secret-to-develop-your-people-simultaneously-save-time",
+   "source": "/the-secret-to-develop-your-people-simultaneously-save-time/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-secret-to-getting-unstuck-and-moving",
+   "source": "/the-secret-to-getting-unstuck-and-moving/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-secret-to-life-rejection-from-the-gap",
+   "source": "/the-secret-to-life-rejection-from-the-gap/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-secret-to-success-is-a-question-not-an-answer",
+   "source": "/the-secret-to-success-is-a-question-not-an-answer/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-steps-of-anger-to-impatience-to-sympathy-to-peace",
+   "source": "/the-steps-of-anger-to-impatience-to-sympathy-to-peace/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-sun-has-not-stopped-shining",
+   "source": "/the-sun-has-not-stopped-shining/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-two-ways-we-suffer-and-the-way-out",
+   "source": "/the-two-ways-we-suffer-and-the-way-out/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/the-victims-creed",
+   "source": "/the-victims-creed/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/there-are-no-big-things",
+   "source": "/there-are-no-big-things/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/there-is-no-such-thing-as-justified-resentment",
+   "source": "/there-is-no-such-thing-as-justified-resentment/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/there-is-only-a-call-for-or-giving-of-love-thats-it",
+   "source": "/there-is-only-a-call-for-or-giving-of-love-thats-it/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/this-is-no-big-just-small-stacked-up",
+   "source": "/this-is-no-big-just-small-stacked-up/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/trainings",
+   "source": "/trainings/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/using-mindfulness-to-quit-bad-habits",
+   "source": "/using-mindfulness-to-quit-bad-habits/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/wanting-vs-creating",
+   "source": "/wanting-vs-creating/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/wants-for-nothing",
+   "source": "/wants-for-nothing/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/we-are-one",
+   "source": "/we-are-one/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/we-are-rich-and-unaware",
+   "source": "/we-are-rich-and-unaware/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/what-isnt-supposed-to-be-part-2",
+   "source": "/what-isnt-supposed-to-be-part-2/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/what-people-are-saying-about-jevons-keynotes-and-trainings",
+   "source": "/what-people-are-saying-about-jevons-keynotes-and-trainings/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/what-really-isnt-supposed-to-be",
+   "source": "/what-really-isnt-supposed-to-be/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/whats-the-captain-book-about",
+   "source": "/whats-the-captain-book-about/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/whats-the-message-blessing-of-coronavirus",
+   "source": "/whats-the-message-blessing-of-coronavirus/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/whats-the-quarantine-revealing",
+   "source": "/whats-the-quarantine-revealing/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/who-is-i",
+   "source": "/who-is-i/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/why-getting-a-dog-will-add-10-years-to-your-life",
+   "source": "/why-getting-a-dog-will-add-10-years-to-your-life/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/why-how-affirmations-work",
+   "source": "/why-how-affirmations-work/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/why-self-talk-works",
+   "source": "/why-self-talk-works/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/why-the-pursuit-of-happiness-leaves-you-unhappy",
+   "source": "/why-the-pursuit-of-happiness-leaves-you-unhappy/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/with-loose-socks-your-failure-locks",
+   "source": "/with-loose-socks-your-failure-locks/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/worry-doesnt-work",
+   "source": "/worry-doesnt-work/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/you-are-just-warming-up",
+   "source": "/you-are-just-warming-up/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/you-are-not-your-body",
+   "source": "/you-are-not-your-body/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/you-are-the-cookie-thief",
+   "source": "/you-are-the-cookie-thief/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/you-matter",
+   "source": "/you-matter/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/your-cosmic-poker-game-you-forgot-about",
+   "source": "/your-cosmic-poker-game-you-forgot-about/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/your-purpose",
+   "source": "/your-purpose/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/yourcart",
+   "source": "/yourcart/:path*",
    "destination": "/",
    "permanent": true
   },
@@ -1033,12 +1033,12 @@
    "permanent": true
   },
   {
-   "source": "/feed",
+   "source": "/feed/:path*",
    "destination": "/",
    "permanent": true
   },
   {
-   "source": "/comments/feed",
+   "source": "/comments/feed/:path*",
    "destination": "/",
    "permanent": true
   },
